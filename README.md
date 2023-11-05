@@ -1,1 +1,2 @@
-# Music_genre_classifier
+# Music_generation_classifier
+Using Deep learning CNN model we will classify music in different generation.
